@@ -1,1 +1,5 @@
 /* Your custom styles goes here */
+@body-background: #aaa;
+@body-color: #444;
+@header-color: #444;
+@nav-border: #ddd;
