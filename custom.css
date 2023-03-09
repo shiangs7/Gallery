@@ -3,3 +3,8 @@ body-background: #6b705c;
 body-color: #444;
 header-color: #444;
 nav-border: #ddd;
+
+body
+{
+  background: #6b705c;
+}
