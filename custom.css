@@ -1,10 +1,9 @@
 /* Your custom styles goes here */
-body-background: #6b705c;
-body-color: #444;
-header-color: #444;
-nav-border: #ddd;
-
-body
-{
-  background: #6b705c;
+body {
+    background: #6b705c;
+    color: #444;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-bottom: 1em;
 }
