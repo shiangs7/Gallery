@@ -7,4 +7,4 @@ body {
     font-weight: lighter;
     margin-bottom: 1em;
 }
-div.date{display:none !important;}
+div.date,nav.breadcrumbs{display:none !important;}
